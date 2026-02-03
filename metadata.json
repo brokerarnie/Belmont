@@ -1,0 +1,8 @@
+{
+  "name": "BELMONT BROKERAGE",
+  "description": "A comprehensive real estate ecosystem featuring classifieds, agent CRM, AI-powered CMA tools, an educational library, and a professional community hub.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
